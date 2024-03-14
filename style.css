@@ -10,6 +10,7 @@
     justify-content: space-between;
     font-family: "Roboto";
     padding: 0 300px;
+    gap: 30px;
 }
 
 .header-text {
